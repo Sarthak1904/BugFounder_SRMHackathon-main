@@ -40,9 +40,9 @@ The model then predicts probability of accident for each frame of video and if t
 
 The Team
 
-AJAY GANGWAR
-
 SARTHAK CHOUDHARY
+
+AJAY GANGWAR
 
 PRACHI JHA
 
